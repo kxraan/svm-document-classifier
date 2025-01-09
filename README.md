@@ -41,3 +41,16 @@ You can access the dataset here: [20 Newsgroups Data](http://www.cs.cmu.edu/afs/
 
 ---
 
+## Key Learnings
+- Deepened understanding of Support Vector Machines (SVM) and their optimization using quadratic programming.
+- Learned the importance of kernel functions in handling non-linear decision boundaries.
+- Gained hands-on experience with text preprocessing techniques like tokenization, stop word removal, and TF-IDF vectorization.
+- Improved ability to evaluate and compare machine learning models using metrics like accuracy and confusion matrices.
+
+---
+
+## Future Enhancements
+- Add support for RBF kernels to explore additional non-linear classification.
+- Implement grid search for hyperparameter tuning (e.g., slack variable C and kernel parameters).
+- Extend preprocessing to include stemming, lemmatization, and additional feature selection techniques.
+- Scale the model to handle larger, more diverse datasets.
